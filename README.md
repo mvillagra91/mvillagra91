@@ -13,7 +13,7 @@
   ✨Amante de la animación japonesa 🍜, la lucha libre 🤼‍♂️ y la fotografia 📸
 </p>
 <h1></h1>
-<h2 id="#lenguajes"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif"><a href="#lenguajes"></a> Lenguajes, Frameworks y Herramientas </h2>
+<h2 id="#lenguajes"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif"><a href="#lenguajes"></a>&nbsp; Lenguajes, Frameworks y Herramientas </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
