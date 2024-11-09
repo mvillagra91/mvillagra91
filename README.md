@@ -1,9 +1,5 @@
-<!-- Enlace que lleva al h1 con el id "soy-mario" -->
-<a href="#soy-mario">Ir al encabezado de Mario</a>
-<br><br>
-
 <!-- Tu encabezado -->
-<h1 align="center" id="soy-mario"><b>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Mario Villagra!</b></h1>
+<h1 align="center" id="soy-mario"><a href="#soy-mario"></a><b>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Mario Villagra!</b></h1>
 
 <br>
 <!-- Imagen de perfil -->
