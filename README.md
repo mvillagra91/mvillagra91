@@ -1,8 +1,8 @@
-<!-- Tu encabezado -->
+<!-- Encabezado -->
 <h1 align="center" id="soy-mario"><a href="#soy-mario"></a><b>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Mario Villagra!</b></h1>
 
 <br>
-<!-- Imagen de perfil -->
+<!-- Imagen -->
 <img align="right" height="180" src="https://www.pngkey.com/png/full/128-1281748_eyyyyy-bby-one-piece-gif-png.png"/>
 
 <p>
@@ -14,6 +14,7 @@
 </p>
 <h1></h1>
 
+<!-- ojo no olvidar-->
 <!--Si deseas agregar mas iconos entrar aqui https://skillicons.dev/-->
 
 <h2 id="#lenguajes"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif"><a href="#lenguajes"></a>&nbsp; Lenguajes, Frameworks y Herramientas </h2>
