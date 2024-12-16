@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,oracle,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -37,7 +37,7 @@
     </tr>
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=discord,postman,ps,notion"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,discord,postman,ps,notion,vite"/></td>
     </tr>
 </table>
 <br>
